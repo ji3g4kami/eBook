@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "514b90b4185d18b4e3cab46a1436d954"
+build_time: [1541744661, 5260000]
+inputs:
+  "/Users/udn/Downloads/eBook/eBook/ViewController.swift": [1541744660, 0]
+  "/Users/udn/Downloads/eBook/eBook/AppDelegate.swift": [1541744085, 0]
+  "/Users/udn/Downloads/eBook/eBook/OutlineTableViewController.swift": [1541735464, 0]
+  "/Users/udn/Downloads/eBook/eBook/PDFViewController.swift": [1541744660, 0]

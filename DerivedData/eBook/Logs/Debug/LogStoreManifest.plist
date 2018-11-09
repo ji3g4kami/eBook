@@ -5,6 +5,94 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>836650D1-B217-40A3-ABB3-8AEC84BD463E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>836650D1-B217-40A3-ABB3-8AEC84BD463E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>eBook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>eBook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug eBook</string>
+			<key>timeStartedRecording</key>
+			<real>563437049.18824399</real>
+			<key>timeStoppedRecording</key>
+			<real>563437067.107095</real>
+			<key>title</key>
+			<string>Debug eBook</string>
+			<key>uniqueIdentifier</key>
+			<string>836650D1-B217-40A3-ABB3-8AEC84BD463E</string>
+		</dict>
+		<key>8AD70616-B57B-405C-AA32-CD214660C156</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8AD70616-B57B-405C-AA32-CD214660C156.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>eBook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>eBook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug eBook</string>
+			<key>timeStartedRecording</key>
+			<real>563437126.87395501</real>
+			<key>timeStoppedRecording</key>
+			<real>563437460.89204299</real>
+			<key>title</key>
+			<string>Debug eBook</string>
+			<key>uniqueIdentifier</key>
+			<string>8AD70616-B57B-405C-AA32-CD214660C156</string>
+		</dict>
+		<key>AFC06D03-CB4C-4DCB-B663-FD497B56F9AA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AFC06D03-CB4C-4DCB-B663-FD497B56F9AA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>eBook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>eBook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug eBook</string>
+			<key>timeStartedRecording</key>
+			<real>563437463.12556505</real>
+			<key>timeStoppedRecording</key>
+			<real>563437498.79672098</real>
+			<key>title</key>
+			<string>Debug eBook</string>
+			<key>uniqueIdentifier</key>
+			<string>AFC06D03-CB4C-4DCB-B663-FD497B56F9AA</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

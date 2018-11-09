@@ -5,6 +5,94 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>486B242E-C627-4ED7-A2D8-3CCCB05EBCC2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>486B242E-C627-4ED7-A2D8-3CCCB05EBCC2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>eBook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>eBook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build eBook</string>
+			<key>timeStartedRecording</key>
+			<real>563437460.80820704</real>
+			<key>timeStoppedRecording</key>
+			<real>563437463.16989899</real>
+			<key>title</key>
+			<string>Build eBook</string>
+			<key>uniqueIdentifier</key>
+			<string>486B242E-C627-4ED7-A2D8-3CCCB05EBCC2</string>
+		</dict>
+		<key>6422D219-1AD8-41B8-9442-C67A4B8EBC11</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6422D219-1AD8-41B8-9442-C67A4B8EBC11.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>eBook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>eBook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build eBook</string>
+			<key>timeStartedRecording</key>
+			<real>563437046.671193</real>
+			<key>timeStoppedRecording</key>
+			<real>563437049.272717</real>
+			<key>title</key>
+			<string>Build eBook</string>
+			<key>uniqueIdentifier</key>
+			<string>6422D219-1AD8-41B8-9442-C67A4B8EBC11</string>
+		</dict>
+		<key>B7EEC865-D877-4EF8-95DE-DC4F32229BB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7EEC865-D877-4EF8-95DE-DC4F32229BB8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>eBook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>eBook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build eBook</string>
+			<key>timeStartedRecording</key>
+			<real>563437124.26647902</real>
+			<key>timeStoppedRecording</key>
+			<real>563437126.96124601</real>
+			<key>title</key>
+			<string>Build eBook</string>
+			<key>uniqueIdentifier</key>
+			<string>B7EEC865-D877-4EF8-95DE-DC4F32229BB8</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
